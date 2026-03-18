@@ -45,9 +45,12 @@ PUSHOVER_TOKEN=your_pushover_token
 PUSHOVER_USER=your_pushover_user
 ```
 ## 4.Place your Resume PDF in the ``` me/ ``` folder and add a summary in ```me/summary.txt```.
-### Chatbot Interface
 
-![Chatbot Screenshot](Downloads/resumechatbot1.png)
+## 🤖Chatbot Interface
+
+![Resume Chatbot](./resumechatbot.png)
+
+![Resume Chatbot UI](./resumechatbot1.png)
 ## How It Works
 
 - User asks a question in the chatbot interface.
